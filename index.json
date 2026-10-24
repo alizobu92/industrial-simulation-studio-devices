@@ -1,0 +1,30 @@
+{
+  "schema": "iss/product-index",
+  "schemaVersion": 1,
+  "products": [
+    {
+      "id": "entes.ent-ab",
+      "version": "1.0.0",
+      "manufacturer": "ENTES",
+      "model": "ENT.AB",
+      "series": "ENT.A",
+      "category": "current_transformers",
+      "summary": "ENTES ENT.AB serisi baralı akım trafosu: 15–150 A primer, 5 A sekonder; primer bara iki yan yüzden çıkar ve hat iletkenine seri bağlanır. 2,5 VA Kl 0,2 veya 10 VA Kl 0,5.",
+      "file": "packages/entes.ent-ab-1.0.0.zip",
+      "size": 5322,
+      "sha256": "1071b0a5bb2bfebb23255007d495d574087c5c77187a8d5dc6bff232bdd34fd4"
+    },
+    {
+      "id": "entes.mpr-47s-0.5",
+      "version": "1.1.0",
+      "manufacturer": "ENTES",
+      "model": "MPR-47S-0,5",
+      "series": "MPR-4",
+      "category": "energy_meters",
+      "summary": "ENTES MPR-47S-0,5 şebeke analizörü: üç fazlı sistemlerde gerilim, akım, güç, enerji ve harmonikleri ölçer; değerler izoleli RS-485 üzerinden Modbus RTU ile okunabilir. Aktif enerji sınıfı 0,5.",
+      "file": "packages/entes.mpr-47s-0.5-1.1.0.zip",
+      "size": 21895,
+      "sha256": "8c9d86dff48f8c11b9664d13737a84d7043e1c90fed41c845c49491c6ae6e659"
+    }
+  ]
+}
